@@ -20,7 +20,7 @@ Purpose of this project is to learn phases of compiler construction - scanner, p
 Symbol Table: Data Structures- HashMaps,Linked List,objects etc operations
 Scanner/Lexical Analyzer: DFA, lexemes, token ids, language specs etc.
 Parser/Syntax Analyzer: CFG, RD, top down parser implementation,type checking etc.
-Intermediate Code Generator: semantic analysis, language translation etc.
+Intermediate Code Generator: semantic analysis,language translation etc.
 
 DISCLAIMER : This project is part of my course work and is here for REFERENCE PURPOSE only.
 I DO NOT TAKE ANY RESPONSIBILITY OF PLAGIARISM OR COPYING BY ANYONE.
