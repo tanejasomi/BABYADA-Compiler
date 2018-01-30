@@ -7,7 +7,7 @@ Project Compiler Construction for BABY ADA is part of course work of Compiler co
 A Compiler is a program that takes a program written in a source language and translates it into an equivalent program in a target language. 
 
 Source language for this compiler is BABY ADA or BADA which is simpler version of ADA TYPE language. 
-Target language is MIPS three address code low level programming language
+Target language is MIPS three address code low level programming language.
 
 Compiler has 6 main phases : Lexical Analyzer, Syntax Analyzer,Semantic Analyzer, Intermediate code generator, code optimizer, code generator. 
 Each Phase transforms the source program from one representation into another representation. They communicate using with error handler and symbol table. This software implements Front End- language specific -Scanner (lexical analyzer), Parser(syntax analyzer) and Intermediate Code generator (Semantic analyzer) with  symbol table and error handling.
